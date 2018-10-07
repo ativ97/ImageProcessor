@@ -13,3 +13,5 @@ F# and C# PPM Image Processing Software
 		3. FlipHorizontal- flips an image so that what’s on the left is now on the right, and what’s on the right is now on the left.
 		4. Zoom- zooms the image by the given zoom factor.
 		5. Rotate- rotates the image to the right 90 degrees.
+		
+ativ97
