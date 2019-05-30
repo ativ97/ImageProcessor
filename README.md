@@ -2,7 +2,7 @@
 F# and C# PPM Image Processing Software
 
 	Description:
-	This is a pixel by pixel image processing software that offers several different functionaly. It creates a protable pixmap of the image 	and the achieves the desire result.
+	This is a pixel by pixel image processing software that offers several different functionaly. It creates a protable pixmap of the image and the achieves the desire result.
 		The Visual Studio solution contains 2 parts, one representing the GUI front-end written in C#, 
 		and the image processing code representing the back-end written in F#.
 		
